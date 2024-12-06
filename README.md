@@ -19,6 +19,7 @@ Endpoint:
 - Connects to the GitHub API.
 - Retrieves all JavaScript and TypeScript files from the repository.
 - Delegates the data to a component for counting letter frequencies.
+
 **LetterFrequencyCounter** is a component that:
 - Asynchronously counts the frequency of letters in the given data.
 -	Uses ConcurrentDictionary for thread-safe operations.
