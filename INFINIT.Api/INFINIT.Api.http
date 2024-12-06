@@ -1,0 +1,6 @@
+@INFINIT.Api_HostAddress = http://localhost:5100
+
+GET {{INFINIT.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
