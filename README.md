@@ -48,7 +48,7 @@ To securely store your GitHub token, use User Secrets
    
 ## Testing
 The solution uses xUnit for testing. Tests are located in the INFINIT.Tests project. 
-
+For a more detailed analysis, you can navigate to the TestResults.md file, where you will see the explanations of the application's tests and its results, including benchmarks.
 ## Key Features
 -	Asynchronous Data Processing: Efficiently fetches and processes data from GitHub repositories.
 -	Optimized Frequency Counting: Uses ConcurrentDictionary for thread-safe operations.
